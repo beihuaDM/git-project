@@ -4,4 +4,6 @@ new-branch-1
 
 stash
 
-fetch  pull8
+fetch pull8
+
+merge
